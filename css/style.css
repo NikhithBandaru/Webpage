@@ -17,7 +17,7 @@
      top: 50%;
      left: 50%;
      transform: translate(-50%, -50%);
-     color: white;
+     color: rgb(255, 255, 255);
 }
 .bannerTitle {
     font-size: 4rem;
